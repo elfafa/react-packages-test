@@ -1,0 +1,14 @@
+{
+  "name": "packages-test",
+  "version": "0.1",
+  "main": "public/index.html",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "resolutions": {
+    "bootstrap": "^3.3.7"
+  }
+}
